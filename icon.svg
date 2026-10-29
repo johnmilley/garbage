@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" fill="#8fd3e0"/>
-  <path d="M0 0H512L0 512Z" fill="#c9a27a"/>
-  <g fill="#ffffff" stroke="#1c1c1c" stroke-width="14" stroke-linejoin="round">
-    <path d="M150 190H362L338 410Q336 426 320 426H192Q176 426 174 410Z"/>
-    <rect x="130" y="146" width="252" height="44" rx="12"/>
-    <path d="M220 146V122Q220 110 232 110H280Q292 110 292 122V146" fill="none"/>
-  </g>
-  <g stroke="#1c1c1c" stroke-width="14" stroke-linecap="round">
-    <path d="M216 230L224 386M296 230L288 386M256 230V386"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text x="50" y="54" font-size="80" text-anchor="middle" dominant-baseline="middle">🗑️</text></svg>
