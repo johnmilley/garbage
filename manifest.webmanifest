@@ -1,6 +1,6 @@
 {
-  "name": "Garbage Day",
-  "short_name": "Garbage Day",
+  "name": "Corner Brook Garbage Collection",
+  "short_name": "CB Garbage",
   "description": "Corner Brook garbage and recycling pickup dates for your address.",
   "start_url": "./",
   "scope": "./",
